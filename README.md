@@ -11,3 +11,9 @@ currying | 柯里化
 英文         | 中文
 ------------ | -------------
 hook | 钩子
+
+### O
+
+英文         | 中文
+------------ | -------------
+observables, Observable, observable | observable
