@@ -29,6 +29,7 @@ observables, Observable, observable | observable
 
 英文         | 中文
 ------------ | -------------
+imperative | 命令式
 iterate | 遍历，循环
 iterator | 遍历函数
 
