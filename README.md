@@ -18,6 +18,13 @@ Functional-Light | 轻量函数式
 ------------ | -------------
 hook | 钩子
 
+
+### O
+
+英文         | 中文
+------------ | -------------
+observables, Observable, observable | observable
+
 ### I
 
 英文         | 中文
