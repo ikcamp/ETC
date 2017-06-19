@@ -52,7 +52,7 @@ map | 映射
 
 英文         | 中文
 ------------ | -------------
-observables, Observable, observable | observable
+observables, observable | Observable
 
 ### P
 
