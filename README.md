@@ -27,6 +27,7 @@ Functional-Light | 轻量函数式
 function signatures | 函数声明
 Functional Programming | 函数式编程
 function call-site | 函数调用现场
+free variables | 自由变量
 
 ### H
 
@@ -41,6 +42,8 @@ hook | 钩子
 imperative | 命令式
 iterate | 遍历，循环
 iterator | 遍历函数
+identifier | 标识符
+idempotence | 幂等
 
 ### M
 
@@ -60,6 +63,7 @@ observables, observable | Observable
 ------------ | -------------
 parameters | 形参
 partial function | 偏函数
+pure function | 纯函数
 
 ### R
 
@@ -67,6 +71,13 @@ partial function | 偏函数
 ------------ | -------------
 response | 响应信息
 references | 引用
+referential transparency | 引用透明性
+
+### S
+
+英文         | 中文
+------------ | -------------
+side effects | 副作用
 
 ### T
 
