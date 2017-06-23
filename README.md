@@ -24,6 +24,7 @@ closure | 闭包
 英文         | 中文
 ------------ | -------------
 destructure, destructuring | 解构
+declarative | 声明式
 
 ### F
 
