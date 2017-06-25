@@ -5,6 +5,7 @@
 ------------ | -------------
 arity | 参数个数
 arguments | 形参
+array of arrays | 多维数组
 
 ### B
 
