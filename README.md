@@ -4,7 +4,7 @@
 英文         | 中文
 ------------ | -------------
 arity | 参数个数
-arguments | 形参
+arguments | 实参
 array of arrays | 多维数组
 
 ### B
